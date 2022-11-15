@@ -1,2 +1,2 @@
 # Charity-DjangoWebsite
-A Django Website for a Charity organisation
+A Django Website for a Charity organisation.
