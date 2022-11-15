@@ -13,3 +13,11 @@ Create a Template folder on the main path of your project,
 then you must foldering it based on applications. Now, develop your HTMLs!
 
 Don't forget to correct the paths of CSSs and JSs in your downloaded HTMLs.
+
+///////////////////////////
+
+This project has an admin page that accessible on this url : .../adminpage/
+
+Admin Page application provide management ability for home page, 
+news segment, video segment, picture segment, Contacts, Supporters, 
+and Financials/Non Financials assistances.
